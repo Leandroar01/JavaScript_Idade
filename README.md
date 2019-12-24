@@ -7,7 +7,7 @@
 #### - Css;
 #### - HTML.
 
-### Conceitos usados:
+### Conceitos de programacao aplicados:
 #### - variaveis em JavaScript;
 #### - If/Else;
 #### - Arvore DOM;
